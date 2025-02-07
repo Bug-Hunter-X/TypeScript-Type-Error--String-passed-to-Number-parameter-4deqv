@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript where a string is passed to a function expecting a number. The TypeScript compiler correctly identifies and reports this type mismatch, preventing runtime errors.  The `bug.ts` file contains the buggy code, while `bugSolution.ts` provides a corrected version.
